@@ -48,6 +48,7 @@ students.sort(function(a, b) {
 console.log(students)
 
 
+
 // function studentName() {
 //   var emptyArray = []
 //   for(var namesLoop in students) {
